@@ -1,0 +1,214 @@
+C:\Users\yaret\source\repos\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\yaret\source\repos\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\yaret\source\repos\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\yaret\source\repos\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\yaret\source\repos\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.OPCIONES.resources
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\yaret\source\repos\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\HP\Downloads\FigmaC\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\HP\Downloads\FigmaC\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\HP\Downloads\FigmaC\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Downloads\FigmaC\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horario2.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horarios.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Opciones.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\HP\Downloads\FigmaC\FigmaC\obj\Debug\net8.0-windows\FigmaC.OpcionesForm.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\HP\Documents\SIMULACION\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\HP\Documents\SIMULACION\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\HP\Documents\SIMULACION\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Documents\SIMULACION\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horario2.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horarios.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Opciones.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.OpcionesForm.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\HP\Documents\SIMULACION\FigmaC\obj\Debug\net8.0-windows\FigmaC.Customs.progressBar1.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.AssemblyReference.cache
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Customs.progressBar1.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horario2.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horarios.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Opciones.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.OpcionesForm.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.Up2Date
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\coron\Downloads\FigmaC2\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\coron\Downloads\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Customs.progressBar1.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horario2.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horarios.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Opciones.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.OpcionesForm.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.Up2Date
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\FigmaC.exe
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\FigmaC.deps.json
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\FigmaC.runtimeconfig.json
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Customs.progressBar1.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horario2.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Horarios.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Login.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Opciones.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.OpcionesForm.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Properties.Resources.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.REGISTRATE.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.AssemblyInfo.cs
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.csproj.Up2Date
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\refint\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.pdb
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.genruntimeconfig.cache
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\ref\FigmaC.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\bin\Debug\net8.0-windows\aa-ET\FigmaC.resources.dll
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\FigmaC.Reserva.aa-ET.resources
+C:\Users\HP\Desktop\CLONADOS\FigmaC2 bueno\FigmaC\obj\Debug\net8.0-windows\aa-ET\FigmaC.resources.dll
