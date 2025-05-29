@@ -5,6 +5,7 @@ using MySql.Data.MySqlClient;
 
 namespace FigmaC
 {
+    //  se elimino la maximizacion
 
     public partial class Horario2 : Form
     {
