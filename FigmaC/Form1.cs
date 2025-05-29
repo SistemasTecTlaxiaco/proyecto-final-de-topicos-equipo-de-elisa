@@ -108,7 +108,7 @@ namespace FigmaC
                 MessageBox.Show("No hay una cita registrada en uno o más horarios seleccionados.");
             }
 
-            // Abrir el formulario Opciones y ocultar este
+            // ae puede abrir el formulario y cerrar
             Opciones opcionesForm = new Opciones();
             opcionesForm.Show();
             this.Hide();
