@@ -6,6 +6,7 @@ using MySql.Data.MySqlClient;
 namespace FigmaC
 {
     //  se elimino la maximizacion
+   
 
     public partial class Horario2 : Form
     {
@@ -27,7 +28,7 @@ namespace FigmaC
                 { 4, checkBox4 }  // 15:30 - 16:30
             };
 
-            // (Opcional) Etiquetas visibles si lo necesitas
+            // ahora se muestran etiquetas
             Dictionary<int, string> etiquetas = new()
             {
                 { 1, "09:00 - 10:00" },
