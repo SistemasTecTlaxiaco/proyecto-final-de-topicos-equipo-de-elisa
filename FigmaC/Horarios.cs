@@ -37,7 +37,7 @@ namespace FigmaC
                 conn.Open();
                 cmbHorarios.Items.Clear(); // Limpia antes de cargar
 
-                string query = "SELECT id, hora FROM horarios";
+                string query = "SELECT id, hora FROM horarios";//aguegue la validacion
 
 
                 using (MySqlCommand cmd = new MySqlCommand(query, conn))
