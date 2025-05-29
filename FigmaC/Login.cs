@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Microsoft.Win32;
 using MySql.Data.MySqlClient;
-//holaaaaaa1234
+//
 
 namespace FigmaC
 {
@@ -21,7 +21,8 @@ namespace FigmaC
                 Database db = new Database();
                 MySqlConnection conexion = db.GetConnection();
                 conexion.Open();
-                MessageBox.Show("✅ Conexión exitosa a la base de datos.");
+                MessageBox.Show("✅ Conexión exitosa a la base de datos.");//conexion con base de datos 
+
                 conexion.Close();
             }
             catch (Exception ex)
