@@ -1,0 +1,41 @@
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por VS
+.vs/
+*.dbmdl
+*.bak
+*.log
+
+# Archivos de depuración
+*.pdb
+*.cache
+*.obj
+*.exe
+*.dll
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Archivos de publicación
+.publish/
+
+# Configuraciones locales
+appsettings.Development.json
+
+# Sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Otros editores
+.vscode/
+.idea/
