@@ -32,6 +32,10 @@ namespace FigmaC
         {
 
         }
-       
+
+        private void REGISTRATE_Load(object sender, EventArgs e)
+        {
+
         }
     }
+}

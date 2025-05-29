@@ -55,9 +55,9 @@ namespace FigmaC
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Lucida Sans", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(269, 40);
+            label1.Location = new Point(307, 53);
             label1.Name = "label1";
-            label1.Size = new Size(141, 25);
+            label1.Size = new Size(181, 32);
             label1.TabIndex = 1;
             label1.Text = "REGISTRATE";
             label1.Click += label1_Click;
@@ -68,9 +68,9 @@ namespace FigmaC
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Lucida Sans", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label3.ForeColor = SystemColors.ButtonFace;
-            label3.Location = new Point(54, 90);
+            label3.Location = new Point(62, 120);
             label3.Name = "label3";
-            label3.Size = new Size(144, 16);
+            label3.Size = new Size(185, 19);
             label3.TabIndex = 3;
             label3.Text = "NOMBRE COMPLETO:";
             // 
@@ -80,9 +80,9 @@ namespace FigmaC
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Lucida Sans", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.ButtonFace;
-            label2.Location = new Point(131, 130);
+            label2.Location = new Point(150, 173);
             label2.Name = "label2";
-            label2.Size = new Size(69, 16);
+            label2.Size = new Size(91, 19);
             label2.TabIndex = 4;
             label2.Text = "USUARIO:";
             // 
@@ -92,48 +92,44 @@ namespace FigmaC
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Lucida Sans", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label4.ForeColor = SystemColors.ButtonFace;
-            label4.Location = new Point(105, 175);
+            label4.Location = new Point(120, 233);
             label4.Name = "label4";
-            label4.Size = new Size(103, 16);
+            label4.Size = new Size(127, 19);
             label4.TabIndex = 5;
             label4.Text = "CONTRASEÑA:";
             // 
             // txtNombreCompleto
             // 
             txtNombreCompleto.BackColor = SystemColors.ActiveBorder;
-            txtNombreCompleto.Location = new Point(216, 84);
-            txtNombreCompleto.Margin = new Padding(3, 2, 3, 2);
+            txtNombreCompleto.Location = new Point(247, 112);
             txtNombreCompleto.Name = "txtNombreCompleto";
-            txtNombreCompleto.Size = new Size(275, 23);
+            txtNombreCompleto.Size = new Size(314, 27);
             txtNombreCompleto.TabIndex = 6;
             txtNombreCompleto.TextChanged += textBox1_TextChanged;
             // 
             // txtNuevoUsuario
             // 
             txtNuevoUsuario.BackColor = SystemColors.ActiveBorder;
-            txtNuevoUsuario.Location = new Point(216, 128);
-            txtNuevoUsuario.Margin = new Padding(3, 2, 3, 2);
+            txtNuevoUsuario.Location = new Point(247, 171);
             txtNuevoUsuario.Name = "txtNuevoUsuario";
-            txtNuevoUsuario.Size = new Size(275, 23);
+            txtNuevoUsuario.Size = new Size(314, 27);
             txtNuevoUsuario.TabIndex = 7;
             txtNuevoUsuario.TextChanged += textBox2_TextChanged;
             // 
             // txtNuevaContrasena
             // 
             txtNuevaContrasena.BackColor = SystemColors.ActiveBorder;
-            txtNuevaContrasena.Location = new Point(216, 172);
-            txtNuevaContrasena.Margin = new Padding(3, 2, 3, 2);
+            txtNuevaContrasena.Location = new Point(247, 229);
             txtNuevaContrasena.Name = "txtNuevaContrasena";
             txtNuevaContrasena.PasswordChar = '*';
-            txtNuevaContrasena.Size = new Size(275, 23);
+            txtNuevaContrasena.Size = new Size(314, 27);
             txtNuevaContrasena.TabIndex = 8;
             // 
             // button2
             // 
-            button2.Location = new Point(105, 228);
-            button2.Margin = new Padding(3, 2, 3, 2);
+            button2.Location = new Point(120, 304);
             button2.Name = "button2";
-            button2.Size = new Size(27, 22);
+            button2.Size = new Size(31, 29);
             button2.TabIndex = 9;
             button2.UseVisualStyleBackColor = true;
             // 
@@ -143,9 +139,9 @@ namespace FigmaC
             label6.BackColor = Color.Transparent;
             label6.Font = new Font("Lucida Sans", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label6.ForeColor = SystemColors.ButtonHighlight;
-            label6.Location = new Point(145, 234);
+            label6.Location = new Point(166, 312);
             label6.Name = "label6";
-            label6.Size = new Size(143, 14);
+            label6.Size = new Size(169, 15);
             label6.TabIndex = 10;
             label6.Text = "RECORDAR CONTRASEÑA";
             // 
@@ -155,9 +151,9 @@ namespace FigmaC
             label7.BackColor = Color.Transparent;
             label7.Font = new Font("Lucida Sans", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label7.ForeColor = SystemColors.ButtonHighlight;
-            label7.Location = new Point(318, 234);
+            label7.Location = new Point(363, 312);
             label7.Name = "label7";
-            label7.Size = new Size(156, 14);
+            label7.Size = new Size(180, 15);
             label7.TabIndex = 11;
             label7.Text = "¿OLVIIDO SU CONTRASEÑA?";
             // 
@@ -165,15 +161,13 @@ namespace FigmaC
             // 
             btnRegistrar.BackColor = SystemColors.HotTrack;
             btnRegistrar.ForeColor = SystemColors.ButtonFace;
-            btnRegistrar.Location = new Point(214, 258);
-            btnRegistrar.Margin = new Padding(3, 2, 3, 2);
+            btnRegistrar.Location = new Point(245, 344);
             btnRegistrar.Name = "btnRegistrar";
-            btnRegistrar.Size = new Size(277, 22);
+            btnRegistrar.Size = new Size(317, 29);
             btnRegistrar.TabIndex = 12;
             btnRegistrar.Text = "REGISTRAR";
             btnRegistrar.UseVisualStyleBackColor = false;
             btnRegistrar.Click += btnRegistrar_Click;
-
             // 
             // label8
             // 
@@ -181,9 +175,9 @@ namespace FigmaC
             label8.BackColor = Color.Transparent;
             label8.Font = new Font("Lucida Sans", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label8.ForeColor = SystemColors.ButtonHighlight;
-            label8.Location = new Point(228, 302);
+            label8.Location = new Point(261, 403);
             label8.Name = "label8";
-            label8.Size = new Size(117, 14);
+            label8.Size = new Size(132, 15);
             label8.TabIndex = 13;
             label8.Text = "¿YA TIENES CUENTA?";
             label8.Click += label8_Click;
@@ -193,20 +187,19 @@ namespace FigmaC
             button3.BackColor = Color.White;
             button3.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             button3.ForeColor = SystemColors.ActiveCaptionText;
-            button3.Location = new Point(359, 296);
-            button3.Margin = new Padding(3, 2, 3, 2);
+            button3.Location = new Point(410, 395);
             button3.Name = "button3";
-            button3.Size = new Size(101, 22);
+            button3.Size = new Size(115, 29);
             button3.TabIndex = 14;
             button3.Text = "INGRESA";
             button3.UseVisualStyleBackColor = false;
             // 
             // REGISTRATE
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(700, 338);
+            ClientSize = new Size(800, 451);
             Controls.Add(button3);
             Controls.Add(label8);
             Controls.Add(btnRegistrar);
@@ -220,10 +213,10 @@ namespace FigmaC
             Controls.Add(label2);
             Controls.Add(label3);
             Controls.Add(label1);
-            Margin = new Padding(3, 2, 3, 2);
             MaximizeBox = false;
             Name = "REGISTRATE";
             Text = "REGISTRATE";
+            Load += REGISTRATE_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -68,6 +68,11 @@ namespace FigmaC
         {
 
         }
+
+        private void Reserva_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

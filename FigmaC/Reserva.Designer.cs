@@ -61,8 +61,8 @@ namespace FigmaC
             // 
             // txtNombreCompleto
             // 
-            txtNombreCompleto.BackColor = SystemColors.ActiveBorder;
             resources.ApplyResources(txtNombreCompleto, "txtNombreCompleto");
+            txtNombreCompleto.BackColor = SystemColors.ActiveBorder;
             txtNombreCompleto.Name = "txtNombreCompleto";
             txtNombreCompleto.TextChanged += textBox1_TextChanged;
             // 
@@ -76,8 +76,8 @@ namespace FigmaC
             // 
             // txtTelefono
             // 
-            txtTelefono.BackColor = SystemColors.ActiveBorder;
             resources.ApplyResources(txtTelefono, "txtTelefono");
+            txtTelefono.BackColor = SystemColors.ActiveBorder;
             txtTelefono.Name = "txtTelefono";
             // 
             // label4
@@ -90,32 +90,32 @@ namespace FigmaC
             // 
             // txtCorreo
             // 
-            txtCorreo.BackColor = SystemColors.ActiveBorder;
             resources.ApplyResources(txtCorreo, "txtCorreo");
+            txtCorreo.BackColor = SystemColors.ActiveBorder;
             txtCorreo.Name = "txtCorreo";
             txtCorreo.TextChanged += txtCorreo_TextChanged;
             // 
             // btnVerHorarios
             // 
+            resources.ApplyResources(btnVerHorarios, "btnVerHorarios");
             btnVerHorarios.BackColor = SystemColors.HotTrack;
             btnVerHorarios.ForeColor = SystemColors.ButtonFace;
-            resources.ApplyResources(btnVerHorarios, "btnVerHorarios");
             btnVerHorarios.Name = "btnVerHorarios";
             btnVerHorarios.UseVisualStyleBackColor = false;
             btnVerHorarios.Click += btnVerHorarios_Click;
             // 
             // LOGIN
             // 
-            LOGIN.BackColor = SystemColors.ActiveCaption;
             resources.ApplyResources(LOGIN, "LOGIN");
+            LOGIN.BackColor = SystemColors.ActiveCaption;
             LOGIN.Name = "LOGIN";
             LOGIN.UseVisualStyleBackColor = false;
             LOGIN.Click += LOGIN_Click;
             // 
             // btnregresaropciones
             // 
-            btnregresaropciones.BackColor = Color.Red;
             resources.ApplyResources(btnregresaropciones, "btnregresaropciones");
+            btnregresaropciones.BackColor = Color.Red;
             btnregresaropciones.Name = "btnregresaropciones";
             btnregresaropciones.UseVisualStyleBackColor = false;
             btnregresaropciones.Click += button2_Click;
@@ -136,6 +136,7 @@ namespace FigmaC
             Controls.Add(label1);
             MaximizeBox = false;
             Name = "Reserva";
+            Load += Reserva_Load;
             ResumeLayout(false);
             PerformLayout();
         }
